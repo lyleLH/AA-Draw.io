@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T02:46:28.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.2" etag="iBgKFaTWORL6wk9IXIOs" type="github"><diagram id="0S804YUggJSI9S3B3qrV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-31T07:31:16.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UG5BNuosPa5MJD4_RpI1" version="14.7.2" type="github">
+  <diagram id="0S804YUggJSI9S3B3qrV" name="Page-1">
+    <mxGraphModel dx="1554" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-2" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-4" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;代理商/业务员&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-9" value="&lt;font face=&quot;helvetica&quot;&gt;店铺&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-12" value="商户/老板/店员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="535" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-20" value="" style="shape=flexArrow;endArrow=classic;html=1;width=15;endSize=5.17;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.5" y="219.5" as="sourcePoint" />
+            <mxPoint x="937.5" y="219.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-21" value="使用展业版App，为商户创建账号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-22" value="进行资料录入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="937.5" y="122.5" width="197.5" height="197.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-24" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="937.5" y="62.5" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-25" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1052.5" y="62.5" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-26" value="&lt;font face=&quot;helvetica&quot;&gt;移卡&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-27" value="商户和店铺资料审核" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="947.5" y="200" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-29" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="978" y="250" as="sourcePoint" />
+            <mxPoint x="590" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="978" y="430" />
+              <mxPoint x="590" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-30" value="审核通过，商户可以开始使用商户端App 进行收款" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="722" y="400" width="158" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-32" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zqxzfRlf8cCUrf7EGi3x-3" target="zqxzfRlf8cCUrf7EGi3x-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="390" as="sourcePoint" />
+            <mxPoint x="510" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="540" />
+              <mxPoint x="1086" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-35" value="店铺顾客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-36" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="zqxzfRlf8cCUrf7EGi3x-4" target="zqxzfRlf8cCUrf7EGi3x-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="80" as="sourcePoint" />
+            <mxPoint x="390" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="80" />
+              <mxPoint x="330" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-37" value="进行展业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-38" value="开发新的客户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-39" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zqxzfRlf8cCUrf7EGi3x-35" target="zqxzfRlf8cCUrf7EGi3x-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="340" as="sourcePoint" />
+            <mxPoint x="290" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="310" />
+              <mxPoint x="260" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-40" value="购买商品，进行扫码支付" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="225" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-41" value="商户收款，在商户端App进行交易管理/业绩管理/店员管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="340" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-42" value="资金结算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1057.5" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-43" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.333;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="zqxzfRlf8cCUrf7EGi3x-42" target="zqxzfRlf8cCUrf7EGi3x-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="310" as="sourcePoint" />
+            <mxPoint x="1095.625" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1093" y="-10" />
+              <mxPoint x="590" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-44" value="交易结算和给商户打款" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-45" value="店铺顾客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-46" value="店铺顾客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zqxzfRlf8cCUrf7EGi3x-47" value="店铺顾客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
