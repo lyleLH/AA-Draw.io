@@ -79,7 +79,7 @@
           <mxGeometry x="20" y="720" width="390" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-48" value="A Single App workflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="80" y="770" width="200" height="30" as="geometry" />
+          <mxGeometry x="90" y="760" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-50" value="&lt;span style=&quot;font-weight: 700; font-kerning: none; font-size: 20px;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;Components Management Platform&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF3333;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1050" y="340" width="220" height="60" as="geometry" />
