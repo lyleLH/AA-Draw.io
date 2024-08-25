@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="cTtfurwDeQWOhhCvHw4j">
-    <mxGraphModel dx="1647" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2470" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,13 +14,13 @@
           <mxGeometry x="510" y="170" width="90" height="970" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="940" y="455" width="450" height="400" as="geometry" />
+          <mxGeometry x="760" y="455" width="450" height="400" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-22" value="Dependency information:&lt;br&gt;Name&amp;nbsp;&lt;br&gt;Version&lt;br&gt;Target&lt;br&gt;Contributor&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="584" width="140" height="140" as="geometry" />
+          <mxGeometry x="810" y="584" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Notification:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Daily review&lt;br&gt;Need upgrade&lt;br&gt;Pushing Intergration Rate&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="599" width="110" height="110" as="geometry" />
+        <mxCell id="FKhg8QgWDwiOiOrDwJd2-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Notification:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Daily review&lt;br&gt;Need upgrade&lt;br&gt;Pushing Intergration Rate&lt;br&gt;Invalid dependencies&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="990" y="570" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-27" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="60" width="390" height="590" as="geometry" />
