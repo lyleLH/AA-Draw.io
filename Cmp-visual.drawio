@@ -11,16 +11,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-11" value="pull 19 Gitlab Repo daily, then Analyze&amp;nbsp;Projects and post data" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="510" y="170" width="90" height="970" as="geometry" />
+          <mxGeometry x="510" y="260" width="270" height="530" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="760" y="455" width="450" height="400" as="geometry" />
+          <mxGeometry x="910" y="325" width="450" height="400" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-22" value="Dependency information:&lt;br&gt;Name&amp;nbsp;&lt;br&gt;Version&lt;br&gt;Target&lt;br&gt;Contributor&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
-          <mxGeometry x="810" y="584" width="140" height="140" as="geometry" />
+          <mxGeometry x="960" y="445" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Notification:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Daily review&lt;br&gt;Need upgrade&lt;br&gt;Pushing Intergration Rate&lt;br&gt;Invalid dependencies&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
-          <mxGeometry x="990" y="570" width="170" height="170" as="geometry" />
+          <mxGeometry x="1156" y="430" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-27" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="60" width="390" height="590" as="geometry" />
@@ -64,63 +64,22 @@
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-26" value="A Single App workflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="FKhg8QgWDwiOiOrDwJd2-27">
           <mxGeometry x="80" y="10" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="24" y="700" width="390" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FKhg8QgWDwiOiOrDwJd2-29">
-          <mxGeometry width="390" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FKhg8QgWDwiOiOrDwJd2-29" source="FKhg8QgWDwiOiOrDwJd2-32" target="FKhg8QgWDwiOiOrDwJd2-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-32" value="Developing a App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FKhg8QgWDwiOiOrDwJd2-29">
-          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FKhg8QgWDwiOiOrDwJd2-29" source="FKhg8QgWDwiOiOrDwJd2-35" target="FKhg8QgWDwiOiOrDwJd2-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FKhg8QgWDwiOiOrDwJd2-29" source="FKhg8QgWDwiOiOrDwJd2-35" target="FKhg8QgWDwiOiOrDwJd2-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-35" value="intergrated internal basic components (Network, Imagecache)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FKhg8QgWDwiOiOrDwJd2-29">
-          <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FKhg8QgWDwiOiOrDwJd2-29" source="FKhg8QgWDwiOiOrDwJd2-38" target="FKhg8QgWDwiOiOrDwJd2-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FKhg8QgWDwiOiOrDwJd2-29" source="FKhg8QgWDwiOiOrDwJd2-38" target="FKhg8QgWDwiOiOrDwJd2-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-38" value="Choose to integrate Common components(UIkit warpper class Alert)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FKhg8QgWDwiOiOrDwJd2-29">
-          <mxGeometry x="70" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FKhg8QgWDwiOiOrDwJd2-29" source="FKhg8QgWDwiOiOrDwJd2-40" target="FKhg8QgWDwiOiOrDwJd2-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-40" value="developing new module, may need more dependencies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FKhg8QgWDwiOiOrDwJd2-29">
-          <mxGeometry x="70" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-41" value="Podfile configration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FKhg8QgWDwiOiOrDwJd2-29">
-          <mxGeometry x="280" y="230" width="70" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-42" value="A Single App workflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="FKhg8QgWDwiOiOrDwJd2-29">
-          <mxGeometry x="80" y="10" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKhg8QgWDwiOiOrDwJd2-30" target="FKhg8QgWDwiOiOrDwJd2-11">
+        <mxCell id="FKhg8QgWDwiOiOrDwJd2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKhg8QgWDwiOiOrDwJd2-44" target="FKhg8QgWDwiOiOrDwJd2-11">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="995" />
-              <mxPoint x="440" y="655" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKhg8QgWDwiOiOrDwJd2-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="650.0000000000002" as="targetPoint" />
+            <mxPoint x="440" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-44" value="........" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="855" width="386" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKhg8QgWDwiOiOrDwJd2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKhg8QgWDwiOiOrDwJd2-47" target="FKhg8QgWDwiOiOrDwJd2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKhg8QgWDwiOiOrDwJd2-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="720" width="390" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FKhg8QgWDwiOiOrDwJd2-48" value="A Single App workflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="770" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
