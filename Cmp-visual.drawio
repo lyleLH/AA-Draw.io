@@ -38,12 +38,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-8" value="Podfile configration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="290" width="70" height="140" as="geometry" />
+          <mxGeometry x="300" y="290" width="70" height="140" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKhg8QgWDwiOiOrDwJd2-11" target="FKhg8QgWDwiOiOrDwJd2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-11" value="pull 19 Gitlab Repo daily, then Analyze&amp;nbsp;Projects and post data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FKhg8QgWDwiOiOrDwJd2-11" value="pull 19 Gitlab Repo daily, then Analyze&amp;nbsp;Projects and post data" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="170" width="90" height="380" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-22" value="Dependency information:&lt;br&gt;Name&amp;nbsp;&lt;br&gt;Version&lt;br&gt;Target&lt;br&gt;Contributor&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="690" y="300" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Notify:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Daily review&lt;br&gt;Need upgrade&lt;br&gt;Pushing Intergration Rate&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="FKhg8QgWDwiOiOrDwJd2-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Notification:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Daily review&lt;br&gt;Need upgrade&lt;br&gt;Pushing Intergration Rate&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="870" y="315" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
