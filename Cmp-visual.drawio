@@ -43,7 +43,7 @@
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKhg8QgWDwiOiOrDwJd2-11" target="FKhg8QgWDwiOiOrDwJd2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FKhg8QgWDwiOiOrDwJd2-11" value="Analyze and post data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FKhg8QgWDwiOiOrDwJd2-11" value="pull 19 Gitlab Repo daily, then Analyze&amp;nbsp;Projects and post data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="170" width="90" height="380" as="geometry" />
         </mxCell>
         <mxCell id="FKhg8QgWDwiOiOrDwJd2-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
