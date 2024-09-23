@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TcersztS0ECEA-ve25YO-69" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="80" width="1310" height="1420" as="geometry" />
+          <mxGeometry x="-110" y="80" width="1310" height="1600" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;arcSize=1;" vertex="1" parent="1">
           <mxGeometry x="-9" y="170" width="859" height="930" as="geometry" />
@@ -129,10 +129,10 @@
         <mxCell id="TcersztS0ECEA-ve25YO-68" value="MVC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1670" y="460" width="150" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="TcersztS0ECEA-ve25YO-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TcersztS0ECEA-ve25YO-2" target="TcersztS0ECEA-ve25YO-83">
+        <mxCell id="TcersztS0ECEA-ve25YO-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TcersztS0ECEA-ve25YO-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-150" y="650" as="sourcePoint" />
-            <mxPoint x="1350" y="1230" as="targetPoint" />
+            <mxPoint x="420" y="1275" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1460" y="780" />
               <mxPoint x="1370" y="950" />
@@ -146,26 +146,20 @@
         <mxCell id="TcersztS0ECEA-ve25YO-72" value="❌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1350" y="840" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TcersztS0ECEA-ve25YO-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1170" width="400" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1640" y="330" width="210" height="250" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1170" width="365" height="220" as="geometry" />
+          <mxGeometry x="-10" y="1430" width="1090" height="220" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-78" value="Common Tools" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="1260" width="130" height="40" as="geometry" />
+          <mxGeometry x="50" y="1515" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-79" value="Image Cache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="1320" width="130" height="40" as="geometry" />
+          <mxGeometry x="50" y="1575" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-80" value="...." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1255" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TcersztS0ECEA-ve25YO-81" value="Common tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="1190" width="210" height="30" as="geometry" />
+          <mxGeometry x="222.5" y="1510" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-84" value="Infrastructure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="20" y="1190" width="210" height="30" as="geometry" />
@@ -191,6 +185,9 @@
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-88" value="❌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1660" y="840" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TcersztS0ECEA-ve25YO-90" value="Common tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1450" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
