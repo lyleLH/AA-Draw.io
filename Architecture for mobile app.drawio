@@ -1,15 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="3695" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4014" dy="2211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TcersztS0ECEA-ve25YO-69" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="80" width="1310" height="1420" as="geometry" />
+        </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;arcSize=1;" vertex="1" parent="1">
           <mxGeometry x="-9" y="170" width="859" height="930" as="geometry" />
         </mxCell>
         <UserObject label="User" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#D8567D;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-            <mxGeometry x="-320" y="375" width="210" height="70" as="geometry" />
+            <mxGeometry x="-380" y="375" width="210" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="TcersztS0ECEA-ve25YO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5DE874;strokeColor=#82b366;" vertex="1" parent="1">
@@ -114,32 +117,35 @@
             <mxPoint x="1480" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TcersztS0ECEA-ve25YO-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="455" width="480" height="600" as="geometry" />
+        <mxCell id="TcersztS0ECEA-ve25YO-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="90" width="480" height="600" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-57" value="User Event" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1454" y="665" width="120" height="60" as="geometry" />
+          <mxGeometry x="1454" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-58" value="State managements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1454" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="1454" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-59" value="UI Layer Design Pattern" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1444" y="505" width="386" height="30" as="geometry" />
+          <mxGeometry x="1444" y="140" width="386" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-62" value="Data Model map" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1454" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="1454" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-63" value="UI Update" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1454" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1454" y="375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-65" value="VIPER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="585" width="150" height="165" as="geometry" />
+          <mxGeometry x="1670" y="220" width="150" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="TcersztS0ECEA-ve25YO-66" value="MVVM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="807.5" width="150" height="165" as="geometry" />
+        <mxCell id="TcersztS0ECEA-ve25YO-66" value="MVVM/MVP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="343.75" width="150" height="91.25" as="geometry" />
         </mxCell>
         <mxCell id="TcersztS0ECEA-ve25YO-67" value="Page transition" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1454" y="905" width="120" height="60" as="geometry" />
+          <mxGeometry x="1454" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TcersztS0ECEA-ve25YO-68" value="MVC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="460" width="150" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
